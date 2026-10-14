@@ -1,0 +1,10 @@
+# 运行生成的数据，不入库（含你的用量统计）
+data/
+logs/
+
+# 通用
+node_modules/
+*.log
+*.bak
+.DS_Store
+Thumbs.db
